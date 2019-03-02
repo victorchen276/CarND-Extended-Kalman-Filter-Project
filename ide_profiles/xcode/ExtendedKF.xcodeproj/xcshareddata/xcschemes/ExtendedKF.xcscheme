@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8A2C1911076F46E998D931A8"
+               BlueprintIdentifier = "06BF23AD11D1464AAFA9685A"
                BuildableName = "ExtendedKF"
                BlueprintName = "ExtendedKF"
                ReferencedContainer = "container:ide_profiles/xcode/ExtendedKF.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8A2C1911076F46E998D931A8"
+            BlueprintIdentifier = "06BF23AD11D1464AAFA9685A"
             BuildableName = "ExtendedKF"
             BlueprintName = "ExtendedKF"
             ReferencedContainer = "container:ide_profiles/xcode/ExtendedKF.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8A2C1911076F46E998D931A8"
+            BlueprintIdentifier = "06BF23AD11D1464AAFA9685A"
             BuildableName = "ExtendedKF"
             BlueprintName = "ExtendedKF"
             ReferencedContainer = "container:ide_profiles/xcode/ExtendedKF.xcodeproj">
@@ -80,7 +80,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8A2C1911076F46E998D931A8"
+            BlueprintIdentifier = "06BF23AD11D1464AAFA9685A"
             BuildableName = "ExtendedKF"
             BlueprintName = "ExtendedKF"
             ReferencedContainer = "container:ide_profiles/xcode/ExtendedKF.xcodeproj">

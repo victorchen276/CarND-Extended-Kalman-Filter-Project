@@ -8,23 +8,23 @@ default:
 # link.  This forces Xcode to relink the targets from scratch.  It
 # does not seem to check these dependencies itself.
 PostBuild.ExtendedKF.Debug:
-/Users/chenyue/Desktop/CarND-Extended-Kalman-Filter-Project/ide_profiles/xcode/Debug/ExtendedKF:
-	/bin/rm -f /Users/chenyue/Desktop/CarND-Extended-Kalman-Filter-Project/ide_profiles/xcode/Debug/ExtendedKF
+/Users/chenyue/Development/GitHub-victorchen276/CarND-Extended-Kalman-Filter-Project/ide_profiles/xcode/Debug/ExtendedKF:
+	/bin/rm -f /Users/chenyue/Development/GitHub-victorchen276/CarND-Extended-Kalman-Filter-Project/ide_profiles/xcode/Debug/ExtendedKF
 
 
 PostBuild.ExtendedKF.Release:
-/Users/chenyue/Desktop/CarND-Extended-Kalman-Filter-Project/ide_profiles/xcode/Release/ExtendedKF:
-	/bin/rm -f /Users/chenyue/Desktop/CarND-Extended-Kalman-Filter-Project/ide_profiles/xcode/Release/ExtendedKF
+/Users/chenyue/Development/GitHub-victorchen276/CarND-Extended-Kalman-Filter-Project/ide_profiles/xcode/Release/ExtendedKF:
+	/bin/rm -f /Users/chenyue/Development/GitHub-victorchen276/CarND-Extended-Kalman-Filter-Project/ide_profiles/xcode/Release/ExtendedKF
 
 
 PostBuild.ExtendedKF.MinSizeRel:
-/Users/chenyue/Desktop/CarND-Extended-Kalman-Filter-Project/ide_profiles/xcode/MinSizeRel/ExtendedKF:
-	/bin/rm -f /Users/chenyue/Desktop/CarND-Extended-Kalman-Filter-Project/ide_profiles/xcode/MinSizeRel/ExtendedKF
+/Users/chenyue/Development/GitHub-victorchen276/CarND-Extended-Kalman-Filter-Project/ide_profiles/xcode/MinSizeRel/ExtendedKF:
+	/bin/rm -f /Users/chenyue/Development/GitHub-victorchen276/CarND-Extended-Kalman-Filter-Project/ide_profiles/xcode/MinSizeRel/ExtendedKF
 
 
 PostBuild.ExtendedKF.RelWithDebInfo:
-/Users/chenyue/Desktop/CarND-Extended-Kalman-Filter-Project/ide_profiles/xcode/RelWithDebInfo/ExtendedKF:
-	/bin/rm -f /Users/chenyue/Desktop/CarND-Extended-Kalman-Filter-Project/ide_profiles/xcode/RelWithDebInfo/ExtendedKF
+/Users/chenyue/Development/GitHub-victorchen276/CarND-Extended-Kalman-Filter-Project/ide_profiles/xcode/RelWithDebInfo/ExtendedKF:
+	/bin/rm -f /Users/chenyue/Development/GitHub-victorchen276/CarND-Extended-Kalman-Filter-Project/ide_profiles/xcode/RelWithDebInfo/ExtendedKF
 
 
 

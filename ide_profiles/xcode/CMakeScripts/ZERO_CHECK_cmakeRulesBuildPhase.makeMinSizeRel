@@ -2,9 +2,9 @@
 # Custom rules for ZERO_CHECK
 .SUFFIXES: 
 all: \
-	/Users/chenyue/Desktop/CarND-Extended-Kalman-Filter-Project/ide_profiles/xcode/CMakeFiles/ZERO_CHECK
+	/Users/chenyue/Development/GitHub-victorchen276/CarND-Extended-Kalman-Filter-Project/ide_profiles/xcode/CMakeFiles/ZERO_CHECK
 
 
-/Users/chenyue/Desktop/CarND-Extended-Kalman-Filter-Project/ide_profiles/xcode/CMakeFiles/ZERO_CHECK: 
+/Users/chenyue/Development/GitHub-victorchen276/CarND-Extended-Kalman-Filter-Project/ide_profiles/xcode/CMakeFiles/ZERO_CHECK: 
 	echo ""
-	make -f /Users/chenyue/Desktop/CarND-Extended-Kalman-Filter-Project/ide_profiles/xcode/CMakeScripts/ReRunCMake.make
+	make -f /Users/chenyue/Development/GitHub-victorchen276/CarND-Extended-Kalman-Filter-Project/ide_profiles/xcode/CMakeScripts/ReRunCMake.make
